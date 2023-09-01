@@ -1,6 +1,7 @@
 # 0x1D C - Binary trees :pencil2:
 
-> C is a powerful general-purpose programming language. It can be used to develop software like operating systems, databases, compilers, and so on. This projects covers the concepts of binary trees! This was a project done with the contribution of my peer in many other SWE projects  [Jorge Zafra](https://github.com/jorgezafra94/) Kudos!
+> C is a powerful general-purpose programming language. It can be used to develop software like operating systems, databases, compilers, and so on. This projects covers the concepts of binary trees! 
+
 
 At the end of this project, We were able to undesrtand these questions:
   
@@ -13,8 +14,8 @@ At the end of this project, We were able to undesrtand these questions:
 
 ## Tasks :heavy_check_mark:
 
-0. Function that creates a binary tree node
-1. Function that inserts a node as the left-child of another node
+0. 
+1. 
 2. Function that inserts a node as the right-child of another node
 3. Function that deletes an entire binary tree
 4. Function that checks if a node is a leaf
@@ -61,10 +62,10 @@ At the end of this project, We were able to undesrtand these questions:
 
 | Filename |
 | ------ |
-| [0-binary_tree_node.c](0x1D-binary_trees/blob/master/0-binary_tree_node.c)|
-| [1-binary_tree_insert_left.c](0x1D-binary_trees/blob/master/1-binary_tree_insert_left.c)|
-| [2-binary_tree_insert_right.c](0x1D-binary_trees/blob/master/2-binary_tree_insert_right.c)|
-| [3-binary_tree_delete.c](0x1D-binary_trees/blob/master/3-binary_tree_delete.c)|
+| [0-binary_tree_node.c]Function that creates a binary tree node|
+| [1-binary_tree_insert_left.c]Function that inserts a node as the left-child of another node|
+| [2-binary_tree_insert_right.c]Function that inserts a node as the right-child of another node|
+| [3-binary_tree_delete.c] | Function that deletes an entire binary tree|
 | [4-binary_tree_is_leaf.c](/0x1D-binary_trees/blob/master/4-binary_tree_is_leaf.c)|
 | [5-binary_tree_is_root.c](/0x1D-binary_trees/blob/master/5-binary_tree_is_root.c)|
 | [6-binary_tree_preorder.c](/0x1D-binary_trees/blob/master/6-binary_tree_preorder.c)|
